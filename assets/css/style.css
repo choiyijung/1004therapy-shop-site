@@ -571,3 +571,19 @@ a {
 body{background:#ffffff!important}
 
 html,body,main,.site-main{background:#ffffff!important}
+/* popular-cta-navy-150:start */
+.region-window__cta{
+  min-height:84px!important;
+  padding:0 33px!important;
+  background:#102a56!important;
+  color:#fff!important;
+  font-size:25.5px!important;
+  font-weight:900!important;
+  border-radius:999px!important;
+  line-height:1.25!important;
+}
+.region-window__cta:hover{
+  background:#0b2148!important;
+  color:#fff!important;
+}
+/* popular-cta-navy-150:end */
