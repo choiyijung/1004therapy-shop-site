@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://1004테라피.shop/sitemap.xml
+Sitemap: https://1004therapy-shop-site.netlify.app/sitemap.xml
